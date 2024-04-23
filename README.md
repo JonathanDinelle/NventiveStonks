@@ -79,6 +79,9 @@ Swagger va ouvrir automatiquement.
 
 Setup standard NextJs/react
 
+- Renommer le fichier env.sample par .env.local
+- Rouler les commandes suivante 
+
 ```shell
 npm i
 npm run dev
