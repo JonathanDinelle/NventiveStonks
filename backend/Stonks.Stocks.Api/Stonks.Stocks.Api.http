@@ -1,0 +1,6 @@
+@Stonks.Stocks.Api_HostAddress = http://localhost:5109
+
+GET {{Stonks.Stocks.Api_HostAddress}}/api/Stocks/
+Accept: application/json
+
+###
